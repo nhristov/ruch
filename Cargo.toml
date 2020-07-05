@@ -1,0 +1,20 @@
+[package]
+name = "ruch"
+version = "0.0.1"
+authors = ["Nikola Hristov <nikola@playform.cloud>"]
+edition = "2018"
+description = "Ruch is library for rich text and beautiful formatting in the terminal."
+documentation = "https://docs.rs/ruch/"
+readme = "README.md"
+repository = "https://github.com/nhristov/ruch"
+license-file = "LICENSE"
+keywords = [
+	"markdown",
+	"ruch",
+	"syntax-highlighting",
+	"tables",
+	"terminal"
+]
+categories = ["command-line-interface"]
+
+[dependencies]
