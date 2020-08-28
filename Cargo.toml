@@ -8,13 +8,7 @@ documentation = "https://docs.rs/ruch/"
 readme = "README.md"
 repository = "https://github.com/nhristov/ruch"
 license-file = "LICENSE"
-keywords = [
-	"markdown",
-	"ruch",
-	"syntax-highlighting",
-	"tables",
-	"terminal"
-]
+keywords = ["markdown", "ruch", "syntax-highlighting", "tables", "terminal"]
 categories = ["command-line-interface"]
 
 [dependencies]
